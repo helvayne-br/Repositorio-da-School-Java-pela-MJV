@@ -1,5 +1,5 @@
 public class MinhaClasse {
-    public static void main(String [] args) {
+    public static void main (String [] args) {
         int resultado = MinhaClasse.somar(3,7);
         System.out.println(args[0]);
 
